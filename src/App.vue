@@ -21,8 +21,6 @@
 
     <!--<div>msg:{{msg}}</div>-->
     <!--<div>{{msg1}}</div>-->
-
-
     <vue-enter-input v-on:get-data="getData"></vue-enter-input>
   </div>
 </template>

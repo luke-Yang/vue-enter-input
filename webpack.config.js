@@ -9,7 +9,7 @@ module.exports = {
     publicPath: '/dist/',
     // filename: 'build.js',
     filename: 'vue-enter-input.js',
-    library: 'VueEnterInput',
+    library: 'vueEnterInput',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },

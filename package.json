@@ -1,10 +1,11 @@
 {
   "name": "vue-enter-input",
   "description": "a vue enter input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "luke-Yang <846834719@qq.com>",
   "license": "MIT",
   "private": false,
+  "main": "dist/vue-enter-input.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"

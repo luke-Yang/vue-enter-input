@@ -26,9 +26,9 @@ npm install vue-enter-input --save-dev
 
 ```js
 // ES6
-import VueEnterInput from '../node_modules/vue-enter-input/dist/vue-enter-input.js'
+import VueEnterInput from 'vue-enter-input'
 // require
-var vueEnterInput = require('../node_modules/vue-enter-input/dist/vue-enter-input.js')
+var vueEnterInput = require('vueEnterInput')
 
 Vue.use(vueEnterInput)
 
